@@ -11,4 +11,4 @@
 ![titanic](https://static.timesofisrael.com/atlantajewishtimes/uploads/2022/03/DT6RD9-640x400.jpg)
 
 - 내용 : matplotlib를 활용한 데이터 시각화
-- 데이터 시각화 [이동](./20220913.ipynb)
+- 데이터 시각화 [이동](./20220913_Titanic.ipynb)
