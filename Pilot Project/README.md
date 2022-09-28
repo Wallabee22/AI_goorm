@@ -1,7 +1,6 @@
 #  파일럿 프로젝트 : 호주 강우 예측
 ---
-<img src="https://storage.googleapis.com/kaggle-datasets-images/6012/1733506/0a5af086168a9b87a38b29bac75aa8ce/dataset-cover.jpg?t=2020-12-11-10-57-11">
-
+![australia](./dataset-cover)
 ### 설명
 
  * **목표**
