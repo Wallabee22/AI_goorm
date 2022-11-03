@@ -1,0 +1,14 @@
+2022 / 11 / 3 (목)
+
+[한주간의 내용 리뷰]
+머신러닝
+프로젝트
+
+[Today - 학습 내용]  프로젝트 수행
+- automl에 대해 알아보기
+- automl 실습해 보기
+- github 이력서 및 프로젝트 보완 만들기
+
+[Todo]
+# github update
+# jupyter notebook 준비
